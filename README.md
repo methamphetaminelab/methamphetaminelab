@@ -1,12 +1,19 @@
-<a href="#"><img align="left" alt="React" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Welcome.svg" /></a>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <a href="https://t.me/fosy1917" target="_blank" style="text-decoration: none; border: none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png" height="40" alt="Telegram logo">
+  </a>
+  <h1 align="center">Hi, I'm Mihail 👋</h1>
+  <a href="https://drive.google.com/file/d/1qj9EzgEiKw7zo2PDSeuFOWPD1OdVLDuN/view?usp=sharing" target="_blank" style="text-decoration: none; border: none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Curriculum-vitae-warning-icon.svg" height="40" alt="Warning icon">
+  </a>
+</div>
 
-<h1 align="center">Hi, I'm Mihail 👋</h1>
 <h3>
-- Data Scientist (ML | NLP/LLM)<br/>
-- Full stack developer<br/>
-- Telegram bot developer<br/>
-- QA engineer<br/>
-- Automation specialist
+  - Data Scientist (ML | NLP/LLM)<br/>
+  - Full stack developer<br/>
+  - Telegram bot developer<br/>
+  - QA engineer<br/>
+  - Automation specialist
 </h3>
 <a href="#-my-skill-sets--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
 
