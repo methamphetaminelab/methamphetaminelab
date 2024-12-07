@@ -66,11 +66,11 @@ I also do music. Here's my spotify: [Fosy](https://open.spotify.com/artist/0pFX1
     </td>
     <td align="center" width="90">
         <a href="https://www.rust-lang.org/" target="_blank"><img alt="Scala" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/rust/rust-original.svg" /></a>
-        <br><h4>Go</h4>
+        <br><h4>Rust</h4>
     </td>
     <td align="center" width="90">
         <a href="https://www.autohotkey.com/" target="_blank"><img alt="Scala" width="45" height="45" style="padding:10px;" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Modern_AutoHotkey_Logo_%28no_text%29.svg" /></a>
-        <br><h4>Go</h4>
+        <br><h4>AHK</h4>
     </td>
 </table>
 
