@@ -2,10 +2,10 @@
 
 <h1 align="center">Hi, I'm Mihail 👋</h1>
 <h3>
-- Data Scientist (ML | NLP/LLM)
-- Full stack developer
-- Telegram bot developer
-- QA engineer
+- Data Scientist (ML | NLP/LLM)  
+- Full stack developer  
+- Telegram bot developer  
+- QA engineer  
 - Automation specialist
 </h3>
 <div style="display: flex; align-items: center;">
