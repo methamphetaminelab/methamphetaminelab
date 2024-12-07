@@ -91,3 +91,5 @@ I also do music. Here's my spotify: [Fosy](https://open.spotify.com/artist/0pFX1
 </div>
 
 <br clear="both" />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=methamphetaminelab&theme=radical)
