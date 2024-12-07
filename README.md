@@ -9,6 +9,7 @@
 - Automation specialist
 </h3>
 <a href="#-my-skill-sets--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
+
 ### ☀️Summary
 
 <div style="display: flex; align-items: center;">
@@ -174,7 +175,7 @@ I also do music. Here's my spotify: [Fosy](https://open.spotify.com/artist/0pFX1
   <h1> 
     My GitHub Stats 
     <a href="#-my-github-stats--">
-      <img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/charts.gif" width = 35px height = 35px>
+      <img src = "https://github-readme-stats.vercel.app/api/?username=methamphetaminelab&count_private=true&theme=tokyonight&showicons=true" width = 35px height = 35px>
     </a>
   </h1>
 </div>
