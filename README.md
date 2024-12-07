@@ -8,7 +8,7 @@
 - QA engineer<br/>
 - Automation specialist
 </h3>
-
+<a href="#-my-skill-sets--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
 ### ☀️Summary
 
 <div style="display: flex; align-items: center;">
@@ -46,7 +46,7 @@ I also do music. Here's my spotify: [Fosy](https://open.spotify.com/artist/0pFX1
 *   English: Upper Intermediate (B2)
 *   Russian: Native
 
-###
+<a href="#-my-skill-sets--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
 
 <h1> My Skill Sets <a href="#-my-skill-sets--"><img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/skill.gif" width = 32px></a> </h1>
 
@@ -165,8 +165,6 @@ I also do music. Here's my spotify: [Fosy](https://open.spotify.com/artist/0pFX1
         <br><h4>SQLite</h4>
     </td>
 </table>
-
-
 
 <br clear="both" />
 
