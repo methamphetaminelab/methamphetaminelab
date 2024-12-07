@@ -98,10 +98,6 @@ I also do music. Here's my spotify: [Fosy](https://open.spotify.com/artist/0pFX1
         <img alt="Matplotlib" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/matplotlib/matplotlib-original-wordmark.svg" />
         <br><h4>Matplotlib</h4>
     </td>
-    <td align="center" width="90">
-        <img alt="Matplotlib" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/matplotlib/matplotlib-original-wordmark.svg" />
-        <br><h4>Matplotlib</h4>
-    </td>
 </table>
 
 ### Frameworks
