@@ -2,7 +2,7 @@
 
 <h1 align="left">Hi, I'm Mihail 👋</h1>
 <h1>Data Scientist (ML | NLP/LLM)</h1>
-<div style="display: flex; align-items: center; gap: 1200px;">
+<div style="display: flex; align-items: center;">
   <a href="https://t.me/fosy1917" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png" height="40" alt="Telegram logo">
   </a>
