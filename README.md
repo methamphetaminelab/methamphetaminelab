@@ -10,7 +10,7 @@
 </h3>
 <a href="#-my-skill-sets--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
 
-### ☀️Summary
+<h1 align="center">☀️Summary</h1>
 
 <h1 align="center">
   <a href="https://t.me/fosy1917" target="_blank" style="text-decoration: none; border: none;">
@@ -28,7 +28,8 @@ I also spend my free time working on my projects (for example: [ShellCrawler](ht
 
 I also do music. Here's my spotify: [Fosy](https://open.spotify.com/artist/0pFX1dc6epirwovmqzlFdH?si=nuzTKG6kTyKp33YwuDOGCg)
 
-### 🐘Education 
+<h1 align="center">### 🐘Education </h1>
+
 <a href="https://ieml.ru/">KIU</a> | Kazan | BS | Computer Science | 2023-2027
 
 ### 👨‍🎓Additional Education
