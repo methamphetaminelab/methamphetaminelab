@@ -10,7 +10,7 @@
 </h3>
 <a href="#-my-skill-sets--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
 
-<h1 align="center">☀️Summary</h1>
+### ☀️Summary
 
 <h1 align="center">
   <a href="https://t.me/fosy1917" target="_blank" style="text-decoration: none; border: none;">
@@ -28,14 +28,10 @@ I also spend my free time working on my projects (for example: [ShellCrawler](ht
 
 I also do music. Here's my spotify: [Fosy](https://open.spotify.com/artist/0pFX1dc6epirwovmqzlFdH?si=nuzTKG6kTyKp33YwuDOGCg)
 
-<a href="#"><img align="left" alt="React" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Welcome.svg" /></a>
-
-<h1 align="center">🐘Education</h1>
-
+### 🐘Education 
 <a href="https://ieml.ru/">KIU</a> | Kazan | BS | Computer Science | 2023-2027
 
-<h1 align="center">👨‍🎓Additional Education</h1>
-
+### 👨‍🎓Additional Education
 - [Deep Learning School by MIPT (2024)](https://dls.samcs.ru/): 2 semesters of machine learning and neural networks (NLP)
 - [Yandex: Machine Learning](https://lyceum.yandex.ru/ml): Machine Learning algorithms
 - Bioinformatics Institute: Fundamentals of statistics
@@ -43,13 +39,12 @@ I also do music. Here's my spotify: [Fosy](https://open.spotify.com/artist/0pFX1
 - [Software testing: Autotests for API with Java, REST Assured and TestNG](https://stepik.org/course/116286/promo?search=6110029755)
 - [Junior QA / Software Testing Engineer](https://stepik.org/course/115268/promo?search=6110029756)
 
-<h1 align="center">🏆Competitions</h1>
 
+### 🏆Competitions
 *  IT Hackathon in Novgorod (4/32) [2024] [LLM] - 4th place. Development and implementation of AI for environmental tasks.
 *  MTS True Tech Champ (finalist) [2024] [Algorithms] - algorithm development
 
-<h1 align="center">🌍Languages</h1>
-
+### 🌍Languages
 *   English: Upper Intermediate (B2)
 *   Russian: Native
 
@@ -57,8 +52,7 @@ I also do music. Here's my spotify: [Fosy](https://open.spotify.com/artist/0pFX1
 
 <h1> My Skill Sets <a href="#-my-skill-sets--"><img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/skill.gif" width = 32px></a> </h1>
 
-<h1 align="center">Languages</h1>
-
+### Languages
 <table>
     <td align="center" width="90">
         <a href="https://www.python.org/" target="_blank"><img alt="Python" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/python.svg" /></a>
@@ -82,8 +76,7 @@ I also do music. Here's my spotify: [Fosy](https://open.spotify.com/artist/0pFX1
     </td>
 </table>
 
-<h1 align="center">Libraries</h1>
-
+### Libraries
 <table>
     <td align="center" width="90">
         <img alt="Numpy" width="45" height="45" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
@@ -111,8 +104,7 @@ I also do music. Here's my spotify: [Fosy](https://open.spotify.com/artist/0pFX1
     </td>
 </table>
 
-<h1 align="center">Frameworks</h1>
-
+### Frameworks
 <table>
     <td align="center" width="90">
         <img alt="Selenium" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/selenium/selenium-original.svg" />
@@ -132,8 +124,7 @@ I also do music. Here's my spotify: [Fosy](https://open.spotify.com/artist/0pFX1
     </td>
 </table>
 
-<h1 align="center">Tools</h1>
-
+### Tools
 <table>
     <td align="center" width="90">
         <img alt="Git" width="45" height="45" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -161,8 +152,7 @@ I also do music. Here's my spotify: [Fosy](https://open.spotify.com/artist/0pFX1
     </td>
 </table>
 
-<h1 align="center">Databases</h1>
-
+### Databases
 <table>
     <td align="center" width="90">
         <img alt="PostgreSQL" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original.svg" />
