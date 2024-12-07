@@ -171,27 +171,4 @@ I also do music. Here's my spotify: [Fosy](https://open.spotify.com/artist/0pFX1
 
 <a href="#-my-skill-sets--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
 
-<div style="display: flex; align-items: center">
-  <h1> 
-    My GitHub Stats 
-    <a href="#-my-github-stats--">
-      <img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/charts.gif" width = 35px height = 35px>
-    </a>
-  </h1>
-</div>
-
-<table align="center">
-  <tr>
-    <td align="center" width="100%">
-        <a href="#-my-github-stats--"><img width="100%" src="https://github-readme-stats.vercel.app/api/?username=methamphetaminelab&count_private=true&theme=tokyonight&showicons=true" alt="HighAmbition211" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100%">
-        <a href="#-my-github-stats--"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=methamphetaminelab&langs_count=5&theme=tokyonight" alt="HighAmbition211" /></a>
-    </td>
-  </tr>
-</table>
-
-
 <a href="#"><img align="left" alt="Finish" width="100%" style="padding-right:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Finish.svg" /></a>
