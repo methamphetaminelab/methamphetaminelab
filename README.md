@@ -175,7 +175,7 @@ I also do music. Here's my spotify: [Fosy](https://open.spotify.com/artist/0pFX1
   <h1> 
     My GitHub Stats 
     <a href="#-my-github-stats--">
-      <img src = "https://github-readme-stats.vercel.app/api/?username=methamphetaminelab&count_private=true&theme=tokyonight&showicons=true" width = 35px height = 35px>
+      <img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/charts.gif" width = 35px height = 35px>
     </a>
   </h1>
 </div>
@@ -183,7 +183,7 @@ I also do music. Here's my spotify: [Fosy](https://open.spotify.com/artist/0pFX1
 <table align="center">
   <tr>
     <td align="center" width="45%">
-        <a href="#-my-github-stats--"><img width="100%" src="https://gh-readme-profile.vercel.app/api?username=HighAmbition211&theme=neon-dark&border_width=0&border_radius=15.2&hide_border=true" alt="HighAmbition211" /></a>
+        <a href="#-my-github-stats--"><img width="100%" src="https://github-readme-stats.vercel.app/api/?username=methamphetaminelab&count_private=true&theme=tokyonight&showicons=true" alt="HighAmbition211" /></a>
     </td>
     <td align="center" width="55%">
         <a href="#-my-github-stats--"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HighAmbition211&theme=2077" alt="HighAmbition211" /></a>
