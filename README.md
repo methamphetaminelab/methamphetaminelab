@@ -77,26 +77,27 @@ I also do music. Here's my spotify: [Fosy](https://open.spotify.com/artist/0pFX1
 ### Libraries
 <table>
     <td align="center" width="90">
-        <a target="_blank"><img alt="Python" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/python.svg" /></a>
+        <img alt="Python" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/python.svg" />
         <br><h4>Numpy</h4>
     </td>
     <td align="center" width="90">
-        <a href="https://csharp-station.com/" target="_blank"><img alt="C#" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/c%23.svg" /></a>
+        <img alt="C#" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/c%23.svg" />
         <br><h4>C#</h4>
     </td>
     <td align="center" width="90">
-        <a href="https://go.dev/" target="_blank"><img alt="Scala" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/go/go-original.svg" /></a>
+        <img alt="Go" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/go/go-original.svg" />
         <br><h4>Go</h4>
     </td>
     <td align="center" width="90">
-        <a href="https://www.rust-lang.org/" target="_blank"><img alt="Scala" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/rust/rust-original.svg" /></a>
+        <img alt="Rust" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/rust/rust-original.svg" />
         <br><h4>Rust</h4>
     </td>
     <td align="center" width="90">
-        <a href="https://www.autohotkey.com/" target="_blank"><img alt="Scala" width="45" height="45" style="padding:10px;" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Modern_AutoHotkey_Logo_%28no_text%29.svg" /></a>
+        <img alt="AHK" width="45" height="45" style="padding:10px;" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Modern_AutoHotkey_Logo_%28no_text%29.svg" />
         <br><h4>AHK</h4>
     </td>
 </table>
+
 
 <br clear="both" />
 
