@@ -12,7 +12,7 @@
 
 ### ☀️Summary
 
-<h1 align="center">
+<h1 align="left">
   <a href="https://t.me/fosy1917" target="_blank" style="text-decoration: none; border: none;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png" height="40" alt="Telegram logo">
   </a>
