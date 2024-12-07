@@ -83,10 +83,6 @@ I also do music. Here's my spotify: [Fosy](https://open.spotify.com/artist/0pFX1
         <br><h4>NumPy</h4>
     </td>
     <td align="center" width="90">
-        <img alt="PyTorch" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pytorch/pytorch-original.svg" />
-        <br><h4>PyTorch</h4>
-    </td>
-    <td align="center" width="90">
         <img alt="Pandas" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pandas/pandas-original-wordmark.svg" />
         <br><h4>Pandas</h4>
     </td>
@@ -105,6 +101,10 @@ I also do music. Here's my spotify: [Fosy](https://open.spotify.com/artist/0pFX1
     <td align="center" width="90">
         <img alt="Selenium" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/selenium/selenium-original.svg" />
         <br><h4>Selenium</h4>
+    </td>
+    <td align="center" width="90">
+        <img alt="PyTorch" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pytorch/pytorch-original.svg" />
+        <br><h4>PyTorch</h4>
     </td>
     <td align="center" width="90">
         <img alt="Flask" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/flask/flask-original.svg" />
