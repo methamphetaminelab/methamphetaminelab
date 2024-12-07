@@ -77,26 +77,27 @@ I also do music. Here's my spotify: [Fosy](https://open.spotify.com/artist/0pFX1
 ### Libraries
 <table>
     <td align="center" width="90">
-        <img alt="Python" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/python.svg" />
-        <br><h4>Numpy</h4>
+        <img alt="Numpy" width="45" height="45" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+        <br><h4>NumPy</h4>
     </td>
     <td align="center" width="90">
-        <img alt="C#" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/c%23.svg" />
-        <br><h4>C#</h4>
+        <img alt="PyTorch" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pytorch/pytorch-original.svg" />
+        <br><h4>PyTorch</h4>
     </td>
     <td align="center" width="90">
-        <img alt="Go" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/go/go-original.svg" />
-        <br><h4>Go</h4>
+        <img alt="Pandas" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pandas/pandas-original-wordmark.svg" />
+        <br><h4>Pandas</h4>
     </td>
     <td align="center" width="90">
-        <img alt="Rust" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/rust/rust-original.svg" />
-        <br><h4>Rust</h4>
+        <img alt="Scikit-learn" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/scikitlearn/scikitlearn-original.svg" />
+        <br><h4>Scikit-learn</h4>
     </td>
     <td align="center" width="90">
-        <img alt="AHK" width="45" height="45" style="padding:10px;" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Modern_AutoHotkey_Logo_%28no_text%29.svg" />
-        <br><h4>AHK</h4>
+        <img alt="Matplotlib" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/matplotlib/matplotlib-original-wordmark.svg" />
+        <br><h4>Matplotlib</h4>
     </td>
 </table>
+
 
 
 <br clear="both" />
