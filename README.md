@@ -8,6 +8,9 @@
 - QA engineer<br/>
 - Automation specialist
 </h3>
+
+### ☀️Summary
+
 <div style="display: flex; align-items: center;">
   <a href="https://t.me/fosy1917" target="_blank" style="text-decoration: none; border: none;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png" height="40" alt="Telegram logo">
@@ -16,8 +19,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Curriculum-vitae-warning-icon.svg" height="40" alt="Warning icon">
   </a>
 </div>
-
-### ☀️Summary
 
 I have experience in developing Telegram bots, server applications and desktop interfaces. Currently I specialize in software testing and test automation. Familiar with testing processes, using tools for manual and automated testing.
 
@@ -45,56 +46,25 @@ I also do music. Here's my spotify: [Fosy](https://open.spotify.com/artist/0pFX1
 *   English: Upper Intermediate (B2)
 *   Russian: Native
 
-<a href="#"><img align="left" alt="Finish" width="100%" style="padding-right:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Finish.svg" /></a>
-
 ###
 
 <h1> My Skill Sets <a href="#-my-skill-sets--"><img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/skill.gif" width = 32px></a> </h1>
 
-<div align="left">
-  <img alt="Python" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/python.svg" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch logo" />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pandas/pandas-original-wordmark.svg" height="40" alt="Pandas logo" />
-  <img width="12" />
-  <img alt="Git" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/Github.gif" />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikit learn logo"  />
-  <img width="12" />
-  <img alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/matplotlib/matplotlib-original-wordmark.svg" height="40" alt="matplotlib logo" />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/blender/blender-original.svg" height="40" alt="blender logo" />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postman/postman-original.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sqlite/sqlite-original.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pytest/pytest-original.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/selenium/selenium-original.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-</div>
+### Languages
+<table>
+    <td align="center" width="90">
+        <a href="https://www.python.org/" target="_blank"><img alt="Python" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/python.svg" /></a>
+        <br><h4>Python</h4>
+    </td>
+    <td align="center" width="90">
+        <a href="https://csharp-station.com/" target="_blank"><img alt="C#" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/c%23.svg" /></a>
+        <br><h4>C#</h4>
+    </td>
+    <td align="center" width="90">
+        <a href="https://go.dev/" target="_blank"><img alt="Scala" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/go/go-original.svg" /></a>
+        <br><h4>Go</h4>
+    </td>
+</table>
 
 <br clear="both" />
 
@@ -127,3 +97,5 @@ I also do music. Here's my spotify: [Fosy](https://open.spotify.com/artist/0pFX1
     </td>
   </tr>
 </table>
+
+<a href="#"><img align="left" alt="Finish" width="100%" style="padding-right:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Finish.svg" /></a>
