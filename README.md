@@ -96,6 +96,10 @@ I also do music. Here's my spotify: [Fosy](https://open.spotify.com/artist/0pFX1
         <img alt="Matplotlib" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/matplotlib/matplotlib-original-wordmark.svg" />
         <br><h4>Matplotlib</h4>
     </td>
+    <td align="center" width="90">
+        <img alt="Matplotlib" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/matplotlib/matplotlib-original-wordmark.svg" />
+        <br><h4>Matplotlib</h4>
+    </td>
 </table>
 
 ### Frameworks
@@ -117,6 +121,47 @@ I also do music. Here's my spotify: [Fosy](https://open.spotify.com/artist/0pFX1
         <br><h4>Django</h4>
     </td>
 </table>
+
+### Tools
+<table>
+    <td align="center" width="90">
+        <img alt="Git" width="45" height="45" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+        <br><h4>Git</h4>
+    </td>
+    <td align="center" width="90">
+        <img alt="GitHub" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/Github.gif" />
+        <br><h4>GitHub</h4>
+    </td>
+    <td align="center" width="90">
+        <img alt="VSCode" width="45" height="45" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+        <br><h4>VS Code</h4>
+    </td>
+    <td align="center" width="90">
+        <img alt="Visual Studio" width="45" height="45" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+        <br><h4>Visual Studio</h4>
+    </td>
+    <td align="center" width="90">
+        <img alt="Linux" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg" />
+        <br><h4>Linux</h4>
+    </td>
+</table>
+
+### Databases
+<table>
+    <td align="center" width="90">
+        <img alt="PostgreSQL" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original.svg" />
+        <br><h4>PostgreSQL</h4>
+    </td>
+    <td align="center" width="90">
+        <img alt="MySQL" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />
+        <br><h4>MySQL</h4>
+    </td>
+    <td align="center" width="90">
+        <img alt="SQLite" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sqlite/sqlite-original.svg" />
+        <br><h4>SQLite</h4>
+    </td>
+</table>
+
 
 
 <br clear="both" />
