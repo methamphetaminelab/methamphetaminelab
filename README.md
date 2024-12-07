@@ -1,24 +1,29 @@
 <a href="#"><img align="left" alt="React" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Welcome.svg" /></a>
 
-<h1 align="left">Hi, I'm Valentin 👋</h1>
+<h1 align="left">Hi, I'm Mihail 👋</h1>
 <h1>Data Scientist (ML | NLP/LLM)</h1>
-<a href="https://t.me/SadLiter" target="_blank">
+<a href="https://t.me/fosy1917" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png" height=40 alt="Telegram logo">
 </a>
 
-[my CV](https://drive.google.com/file/d/14G8H9h63nhcekbyoXvar8TrYG_pvaHox/view?usp=sharing)
+[my CV](https://drive.google.com/file/d/1qj9EzgEiKw7zo2PDSeuFOWPD1OdVLDuN/view?usp=sharing)
 
 ### ☀️Summary
 
-Developed Telegram bots: the latest project involved creating a schedule bot for college classes. Currently studying ML and DL, participating in hackathons, and constantly developing my skills.
+I have experience in developing Telegram bots, server applications and desktop interfaces. Currently I specialize in software testing and test automation. Familiar with testing processes, using tools for manual and automated testing.
+
+I also spend my free time working on my projects (for example: [ShellCrawler](https://github.com/methamphetaminelab/ShellCrawler)) and making cheats for video games (my account on unknowncheats: [DeadRoundDR](https://www.unknowncheats.me/forum/members/2582266.html)).
 
 ### 🐘Education 
-<a href="https://misis.ru/">NUST MISIS</a> | Moscow | BS | Computer Science | 2023-2027
+<a href="https://ieml.ru/">KIU</a> | Kazan | BS | Computer Science | 2023-2027
 
 ### 👨‍🎓Additional Education
 - [Deep Learning School by MIPT (2024)](https://dls.samcs.ru/): 2 semesters of machine learning and neural networks (NLP)
 - [Yandex: Machine Learning](https://lyceum.yandex.ru/ml): Machine Learning algorithms
 - Bioinformatics Institute: Fundamentals of statistics
+- [Testing REST API in Postman - an easy start to automation](https://stepik.org/course/131052/promo?search=6110029754)
+- [Software testing: Autotests for API with Java, REST Assured and TestNG](https://stepik.org/course/116286/promo?search=6110029755)
+- [Junior QA / Software Testing Engineer](https://stepik.org/course/115268/promo?search=6110029756)
 
 
 ### 🏆Competitions
@@ -69,6 +74,14 @@ Developed Telegram bots: the latest project involved creating a schedule bot for
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postman/postman-original.svg" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sqlite/sqlite-original.svg" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pytest/pytest-original.svg" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/selenium/selenium-original.svg" height="40" alt="mysql logo" />
   <img width="12" />
 </div>
 
