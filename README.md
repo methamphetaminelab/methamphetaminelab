@@ -63,16 +63,20 @@ I also do music. Here's my spotify: [Fosy](https://open.spotify.com/artist/0pFX1
         <br><h4>C#</h4>
     </td>
     <td align="center" width="90">
-        <a href="https://go.dev/" target="_blank"><img alt="Scala" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/go/go-original.svg" /></a>
+        <a href="https://go.dev/" target="_blank"><img alt="Go" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/go/go-original.svg" /></a>
         <br><h4>Go</h4>
     </td>
     <td align="center" width="90">
-        <a href="https://www.rust-lang.org/" target="_blank"><img alt="Scala" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/rust/rust-original.svg" /></a>
+        <a href="https://www.rust-lang.org/" target="_blank"><img alt="Rust" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/rust/rust-original.svg" /></a>
         <br><h4>Rust</h4>
     </td>
     <td align="center" width="90">
-        <a href="https://www.autohotkey.com/" target="_blank"><img alt="Scala" width="45" height="45" style="padding:10px;" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Modern_AutoHotkey_Logo_%28no_text%29.svg" /></a>
+        <a href="https://www.autohotkey.com/" target="_blank"><img alt="AHK" width="45" height="45" style="padding:10px;" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Modern_AutoHotkey_Logo_%28no_text%29.svg" /></a>
         <br><h4>AHK</h4>
+    </td>
+  <td align="center" width="90">
+        <a href="https://ru.wikipedia.org/wiki/JavaScript/" target="_blank"><img alt="JavaScript" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg" /></a>
+        <br><h4>JavaScript</h4>
     </td>
 </table>
 
