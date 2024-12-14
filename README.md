@@ -34,7 +34,7 @@ I also do music. Here's my spotify: [Fosy](https://open.spotify.com/artist/0pFX1
 ### 👨‍🎓Additional Education
 - [Deep Learning School by MIPT (2024)](https://dls.samcs.ru/): 2 semesters of machine learning and neural networks (NLP)
 - [Yandex: Machine Learning](https://lyceum.yandex.ru/ml): Machine Learning algorithms
-- Bioinformatics Institute: Fundamentals of statistics
+- [Bioinformatics Institute](https://stepik.org/course/76/syllabus): Fundamentals of statistics
 - [Testing REST API in Postman - an easy start to automation](https://stepik.org/course/131052/promo?search=6110029754)
 - [Software testing: Autotests for API with Java, REST Assured and TestNG](https://stepik.org/course/116286/promo?search=6110029755)
 - [Junior QA / Software Testing Engineer](https://stepik.org/course/115268/promo?search=6110029756)
