@@ -45,6 +45,7 @@ I also do music. Here's my spotify: [Fosy](https://open.spotify.com/artist/0pFX1
 *  [BIV Hack Challenge](https://biv-challenge.ru/) (5/64) [2024] [NLP] - Automation of payment processing
 *  [EVRAZ Hackathon](https://xn--80aaaairqt2ajzt9a.xn--p1ai/#rec812246603) (11/52) [2024] [LLM] - CodeReview bot
 *  [Gameton DatsMagic](https://datsteam.dev/datsmagic) (17/262) [2024] [API] - Interaction with API
+*  [Gameton DatsNewway](https://datsteam.dev/datsnewway) (11/344) [2024] [API] - Interaction with API
 *  [MTS True Tech Champ](https://truetechday.ru/hack) (finalist) [2024] [Algorithms] - algorithm development
 
 ### 🌍Languages
