@@ -31,6 +31,10 @@ I also do music. Here's my spotify: [Fosy](https://open.spotify.com/artist/0pFX1
 ### 🐘Education 
 <a href="https://ieml.ru/">KIU</a> | Kazan | BS | Computer Science | 2023-2027
 
+### 💻Codewars & Leetcode
+- [Codewars](https://www.codewars.com/users/fosy)
+- [Leetcode](https://leetcode.com/u/methamphetaminelab/)
+
 ### 👨‍🎓Additional Education
 - [Deep Learning School by MIPT (2024)](https://dls.samcs.ru/): 2 semesters of machine learning and neural networks (NLP)
 - [Yandex: Machine Learning](https://lyceum.yandex.ru/ml): Machine Learning algorithms
