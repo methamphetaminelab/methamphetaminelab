@@ -14,10 +14,6 @@
   <a href="https://t.me/fosy1917" target="_blank" style="text-decoration: none; border: none;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png" height="40" alt="Telegram logo">
   </a>
-   
-  <a href="https://drive.google.com/file/d/1qj9EzgEiKw7zo2PDSeuFOWPD1OdVLDuN/view?usp=sharing" target="_blank" style="text-decoration: none; border: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Curriculum-vitae-warning-icon.svg" height="40" alt="Warning icon">
-  </a>
 </h1>
 
 I have experience in developing Telegram bots, server applications and desktop interfaces. Currently I specialize in software testing and test automation. Familiar with testing processes, using tools for manual and automated testing.
