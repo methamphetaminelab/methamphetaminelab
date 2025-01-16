@@ -6,9 +6,9 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png" height="40" alt="Telegram logo">
   </a>
 
-  - Data Scientist (ML | NLP/LLM)<br/>
-  - Full stack developer<br/>
-  - QA engineer<br/>
+  Data Scientist (ML | NLP/LLM)<br/>
+  Full stack developer<br/>
+  QA engineer<br/>
 </h3>
 <a href="#-my-skill-sets--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
 
