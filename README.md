@@ -4,9 +4,7 @@
 <h3>
 - Data Scientist (ML | NLP/LLM)<br/>
 - Full stack developer<br/>
-- Telegram bot developer<br/>
 - QA engineer<br/>
-- Automation specialist
 </h3>
 <a href="#-my-skill-sets--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
 
