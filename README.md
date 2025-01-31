@@ -28,8 +28,8 @@ I also do music. Here's my spotify: [Fosy](https://open.spotify.com/artist/0pFX1
 - [Leetcode](https://leetcode.com/u/methamphetaminelab/)
 
 ### 👨‍🎓Additional Education
-- [Deep Learning School by MIPT (2024)](https://dls.samcs.ru/): 2 semesters of machine learning and neural networks (NLP)
-- [Yandex: Machine Learning](https://lyceum.yandex.ru/ml): Machine Learning algorithms
+- [Deep Learning School by MIPT (2024)](https://dls.samcs.ru/)
+- [Yandex: Machine Learning](https://lyceum.yandex.ru/ml)
 - [Functional Programming on Python](https://stepik.org/course/195619/promo?search=6439635988)  
 - [Python: Fundamentals and Application](https://stepik.org/course/512/promo?search=6439635396)  
 - [Quick Start with FastAPI Python](https://stepik.org/course/179694/promo?search=6439636690)  
