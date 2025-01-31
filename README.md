@@ -37,12 +37,13 @@ I also do music. Here's my spotify: [Fosy](https://open.spotify.com/artist/0pFX1
 
 
 ### 🏆Competitions
-*  [IT Hackathon in Novgorod](https://hacks-ai.ru/) (4/32) [2024] [LLM] - 4th place. Development and implementation of AI for environmental tasks.
-*  [BIV Hack Challenge](https://biv-challenge.ru/) (5/64) [2024] [NLP] - Automation of payment processing
-*  [EVRAZ Hackathon](https://xn--80aaaairqt2ajzt9a.xn--p1ai/#rec812246603) (11/52) [2024] [LLM] - CodeReview bot
-*  [Gameton DatsMagic](https://datsteam.dev/datsmagic) (17/262) [2024] [API] - Interaction with API
-*  [Gameton DatsNewway](https://datsteam.dev/datsnewway) (11/344) [2024] [API] - Interaction with API
-*  [MTS True Tech Champ](https://truetechday.ru/hack) (finalist) [2024] [Algorithms] - algorithm development
+*  [IT Hackathon | AI](https://hacks-ai.ru/) (4/32) [2024] [LLM] – Development and implementation of AI for language modeling tasks.
+*  [BIV Hack Challenge](https://biv-challenge.ru/) (6/64) [2024] [NLP] – Automation of natural language processing for business applications.
+*  [EVRAZ Hackathon](https://xn--80aaaairqt2ajzt9a.xn--p1ai/#rec812246603) (12/52) [2024] [LLM] – AI-driven CodeReview bot.
+*  [Gameton DatsMagic](https://datsteam.dev/datsmagic) (17/475) [2024] [API] – Development of API interactions.
+*  [Gameton DatsNewway](https://datsteam.dev/datsnewway) (21/466) [2024] [API] – Implementation of API solutions.
+*  [Crowdtesting Challenge](https://crowdtesting.ru/) (16/2564) [2024] [Crowdtesting] – Large-scale software testing optimization.
+*  [MTS True Tech Champ](https://truetechday.ru/hack) (4/1000+) [2024] [Algorithms] – Advanced algorithm development.
 
 ### 🌍Languages
 *   English: Upper Intermediate (B2)
