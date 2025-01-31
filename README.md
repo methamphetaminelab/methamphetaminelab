@@ -30,11 +30,24 @@ I also do music. Here's my spotify: [Fosy](https://open.spotify.com/artist/0pFX1
 ### 👨‍🎓Additional Education
 - [Deep Learning School by MIPT (2024)](https://dls.samcs.ru/): 2 semesters of machine learning and neural networks (NLP)
 - [Yandex: Machine Learning](https://lyceum.yandex.ru/ml): Machine Learning algorithms
-- [Bioinformatics Institute](https://stepik.org/course/76/syllabus): Fundamentals of statistics
-- [Testing REST API in Postman - an easy start to automation](https://stepik.org/course/131052/promo?search=6110029754)
-- [Software testing: Autotests for API with Java, REST Assured and TestNG](https://stepik.org/course/116286/promo?search=6110029755)
-- [Junior QA / Software Testing Engineer](https://stepik.org/course/115268/promo?search=6110029756)
-
+- [Functional Programming on Python](https://stepik.org/course/195619/promo?search=6439635988)  
+- [Python: Fundamentals and Application](https://stepik.org/course/512/promo?search=6439635396)  
+- [Quick Start with FastAPI Python](https://stepik.org/course/179694/promo?search=6439636690)  
+- [Software Testing: Automation and Programming. Python. Selenium](https://stepik.org/course/120491/promo?search=6439636187)  
+- ["Generation Python": Course for Beginners](https://stepik.org/course/58852/promo?search=6439634104)  
+- ["Generation Python": Advanced Course](https://stepik.org/course/68343/promo?search=6439634304)  
+- [Programming in Python](https://stepik.org/course/67/promo?search=6439634881)  
+- [Python: Basics and Application](https://stepik.org/course/512/promo?search=6439635396)  
+- [Software Testing: API Test Automation with Java, REST Assured, and TestNG](https://stepik.org/course/116286/promo)  
+- [Tester’s Toolkit: Requirements and Mockup Testing](https://stepik.org/course/186381/promo?search=6439640108)  
+- [Test Automation with Java and TestNG](https://stepik.org/course/120178/promo)  
+- [Web Application Test Automation with Selenium 1](https://stepik.org/course/125644/promo?search=6439640614)  
+- [Web Application Test Automation with Selenium 2](https://stepik.org/course/129409/promo?search=6439640613)  
+- [Software Testing: Manual QA Engineer / Manual Tester from Scratch](https://stepik.org/course/187739/promo?search=6439641074)  
+- [Practical Machine Learning](https://stepik.org/course/125501/promo?search=6439644552)  
+- [Machine Learning: Cross-Validation and Hyperparameter Optimization](https://stepik.org/course/214012/promo?search=6439644998)  
+- [Kind, Kind AI. Part 1. Machine Learning](https://stepik.org/course/209247/promo)  
+- [Machine Learning - Module 1 (Data Analysis)](https://stepik.org/course/175964/promo?search=6439645877)  
 
 ### 🏆Competitions
 *  [IT Hackathon | AI](https://hacks-ai.ru/) (4/32) [2024] [LLM] – Development and implementation of AI for language modeling tasks.
