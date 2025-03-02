@@ -8,7 +8,7 @@
 </h1>
 <h3 align="center">
   QA engineer<br/>
-  FullStack developer<br/>
+  BackEnd developer<br/>
   Data Scientist (ML | NLP/LLM)<br/>
 </h3>
 <a href="#-my-skill-sets--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
