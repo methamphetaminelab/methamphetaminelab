@@ -59,7 +59,7 @@ I also make music. Here's my spotify: [Fosy](https://open.spotify.com/artist/0pF
 *  [MTS True Tech Champ](https://truetechday.ru/hack) (4/1000+) [2024] [Algorithms] – Advanced algorithm development.
 
 ### 🌍Languages
-*   English: Upper Intermediate (B2)
+*   English: Intermediate
 *   Russian: Native
 
 <a href="#-my-skill-sets--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
