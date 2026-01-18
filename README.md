@@ -17,8 +17,6 @@ I have experience in developing Telegram bots, server applications and desktop i
 
 I also spend my free time working on my projects and making cheats for video games (my account on unknowncheats: [DeadRoundDR](https://www.unknowncheats.me/forum/members/2582266.html)).
 
-I also make music. Here's my spotify: [Fosy](https://open.spotify.com/artist/0pFX1dc6epirwovmqzlFdH?si=nuzTKG6kTyKp33YwuDOGCg)
-
 ### 🐘Education 
 <a href="https://ieml.ru/">KIU</a> | Kazan | BS | Computer Science | 2023-2027
 
