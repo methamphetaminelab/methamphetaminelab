@@ -13,7 +13,7 @@
 <a href="#-my-skill-sets--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
 
 ### ☀️Summary
-I have experience in developing Telegram bots, server applications and desktop interfaces. Currently I specialize in software testing and test automation. Familiar with testing processes, using tools for manual and automated testing.
+I have experience in developing Telegram bots, server applications and desktop interfaces. Currently, I work on backend development, focusing on designing and implementing servers and APIs. I have hands-on experience with building RESTful services, handling business logic, working with databases, and ensuring performance and reliability of backend systems.
 
 I also spend my free time working on my projects and making cheats for video games (my account on unknowncheats: [DeadRoundDR](https://www.unknowncheats.me/forum/members/2582266.html)).
 
