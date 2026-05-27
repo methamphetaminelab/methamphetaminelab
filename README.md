@@ -17,30 +17,8 @@ I have experience in developing Telegram bots, server applications and desktop i
 
 I also spend my free time working on my projects and making cheats for video games (my account on unknowncheats: [DeadRoundDR](https://www.unknowncheats.me/forum/members/2582266.html)).
 
-### 🐘Education 
+### 👨‍🎓Education 
 <a href="https://ieml.ru/">KIU</a> | Kazan | BS | Computer Science | 2023-2027
-
-### 👨‍🎓Additional Education
-- [Deep Learning School by MIPT (2024)](https://dls.samcs.ru/)
-- [Yandex: Machine Learning](https://lyceum.yandex.ru/ml)
-- [Functional Programming on Python](https://stepik.org/course/195619/promo?search=6439635988)  
-- [Python: Fundamentals and Application](https://stepik.org/course/512/promo?search=6439635396)  
-- [Quick Start with FastAPI Python](https://stepik.org/course/179694/promo?search=6439636690)  
-- [Software Testing: Automation and Programming. Python. Selenium](https://stepik.org/course/120491/promo?search=6439636187)  
-- ["Generation Python": Course for Beginners](https://stepik.org/course/58852/promo?search=6439634104)  
-- ["Generation Python": Advanced Course](https://stepik.org/course/68343/promo?search=6439634304)  
-- [Programming in Python](https://stepik.org/course/67/promo?search=6439634881)  
-- [Python: Basics and Application](https://stepik.org/course/512/promo?search=6439635396)  
-- [Software Testing: API Test Automation with Java, REST Assured, and TestNG](https://stepik.org/course/116286/promo)  
-- [Tester’s Toolkit: Requirements and Mockup Testing](https://stepik.org/course/186381/promo?search=6439640108)  
-- [Test Automation with Java and TestNG](https://stepik.org/course/120178/promo)  
-- [Web Application Test Automation with Selenium 1](https://stepik.org/course/125644/promo?search=6439640614)  
-- [Web Application Test Automation with Selenium 2](https://stepik.org/course/129409/promo?search=6439640613)  
-- [Software Testing: Manual QA Engineer / Manual Tester from Scratch](https://stepik.org/course/187739/promo?search=6439641074)  
-- [Practical Machine Learning](https://stepik.org/course/125501/promo?search=6439644552)  
-- [Machine Learning: Cross-Validation and Hyperparameter Optimization](https://stepik.org/course/214012/promo?search=6439644998)  
-- [Kind, Kind AI. Part 1. Machine Learning](https://stepik.org/course/209247/promo)  
-- [Machine Learning - Module 1 (Data Analysis)](https://stepik.org/course/175964/promo?search=6439645877)  
 
 ### 🏆Competitions
 *  [IT Hackathon | AI](https://hacks-ai.ru/) (4/32) [2024] [LLM] – Development and implementation of AI for language modeling tasks.
