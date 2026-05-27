@@ -1,11 +1,10 @@
 <a href="#"><img align="left" alt="React" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Welcome.svg" /></a>
 
 <h1 align="center">
-  <a href="https://t.me/fosy1917" target="_blank" style="text-decoration: none; none: none;">
+  <a href="https://t.me/fosy1917" target="_blank" style="text-decoration: none; color: inherit;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png" height="40" alt="Telegram">
   </a>
 </h1>
-<a href="#-my-skill-sets--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
 
 ### ☀️Summary
 I have experience in developing Telegram bots, server applications and desktop interfaces. Currently, I work on backend development, focusing on designing and implementing servers and APIs. I have hands-on experience with building RESTful services, handling business logic, working with databases, and ensuring performance and reliability of backend systems.
