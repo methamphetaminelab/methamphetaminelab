@@ -1,43 +1,34 @@
 <a href="#"><img align="left" alt="React" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Welcome.svg" /></a>
 
 <h1 align="center">
-  <a href="https://t.me/fosy1917"
-     target="_blank"
-     style="text-decoration: none; border-bottom: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png"
-         height="40"
-         alt="Telegram">
+  <a href="https://t.me/fosy1917" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png"
+      height="40"
+      alt="Telegram"
+      style="display: block; margin: 0 auto;"
+    >
   </a>
 </h1>
 
-<a href="#-my-skill-sets--">
-  <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif">
-</a>
-
-### ☀️Summary
+### Summary
 I have experience in developing Telegram bots, server applications and desktop interfaces. Currently, I work on backend development, focusing on designing and implementing servers and APIs. I have hands-on experience with building RESTful services, handling business logic, working with databases, and ensuring performance and reliability of backend systems.
 
 I also spend my free time working on my projects and making cheats for video games (my account on unknowncheats: [DeadRoundDR](https://www.unknowncheats.me/forum/members/2582266.html)).
 
-### 👨‍🎓Education 
+### Education 
 <a href="https://ieml.ru/">KIU</a> | Kazan | BS | Computer Science | 2023-2027
 
-### 🏆Competitions
-*  [IT Hackathon | AI](https://hacks-ai.ru/) (4/32) [2024] [LLM] – Development and implementation of AI for language modeling tasks.
-*  [BIV Hack Challenge](https://biv-challenge.ru/) (6/64) [2024] [NLP] – Automation of natural language processing for business applications.
-*  [EVRAZ Hackathon](https://xn--80aaaairqt2ajzt9a.xn--p1ai/#rec812246603) (12/52) [2024] [LLM] – AI-driven CodeReview bot.
-*  [Gameton DatsMagic](https://datsteam.dev/datsmagic) (17/475) [2024] [API] – Development of API interactions.
-*  [Gameton DatsNewway](https://datsteam.dev/datsnewway) (21/466) [2024] [API] – Implementation of API solutions.
-*  [Crowdtesting Challenge](https://crowdtesting.ru/) (16/2564) [2024] [Crowdtesting] – Large-scale software testing optimization.
-*  [MTS True Tech Champ](https://truetechday.ru/hack) (4/1000+) [2024] [Algorithms] – Advanced algorithm development.
-
-### 🌍Languages
-*   English: Intermediate
-*   Russian: Native
-
-<a href="#-my-skill-sets--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
-
-<h1> My Skill Sets <a href="#-my-skill-sets--"><img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/skill.gif" width = 32px></a> </h1>
+### Competitions
+| Result | Competition | Year | Domain |
+|:------:|-------------|:----:|:------:|
+| 🥇 **4 / 1000+** | [MTS True Tech Champ](https://truetechday.ru/hack) | 2024 | Algorithms |
+| 🥇 **4 / 32** | [IT Hackathon · AI](https://hacks-ai.ru/) | 2024 | LLM |
+| **6 / 64** | [BIV Hack Challenge](https://biv-challenge.ru/) | 2024 | NLP |
+| **12 / 52** | [EVRAZ Hackathon](https://xn--80aaaairqt2ajzt9a.xn--p1ai/) | 2024 | LLM · CodeReview |
+| **16 / 2564** | [Crowdtesting Challenge](https://crowdtesting.ru/) | 2024 | QA |
+| **17 / 475** | [Gameton DatsMagic](https://datsteam.dev/datsmagic) | 2024 | API |
+| **21 / 466** | [Gameton DatsNewway](https://datsteam.dev/datsnewway) | 2024 | API |
 
 ### Languages
 <table>
